@@ -21,7 +21,7 @@ The dataset comprises a total of **58,528** instances, providing a solid foundat
 - **Tactical Exercises:** 433 instances
 - **Endgame Scenarios:** 244 instances
 
-![Dataset Structure](./Fig1_Structure.png)
+![Dataset Structure](./PIC/Fig1_Dataset_Resources.png)
 *Fig 1: Overview of Dataset Composition*
 
 ## 🌟 Key Features
@@ -31,7 +31,7 @@ The dataset comprises a total of **58,528** instances, providing a solid foundat
 
 ### Historical Trend
 The dataset captures the evolution of Xiangqi strategies over time, with records spanning from the 1950 to 2013.
-![Yearly Distribution](./Fig7_Year_Dist.png)
+![Yearly Distribution](./PIC/Fig7_Year_Distribution.jpg)
 *Fig 7: Game Distribution by Year*
 
 ## 🚀 Applications
