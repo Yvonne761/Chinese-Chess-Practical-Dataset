@@ -41,10 +41,18 @@ This dataset is suitable for various AI tasks, including:
 3. **Tactical Analysis:** Solving real-world midgame and endgame problems.
 
 ## 📂 File Structure
-```text
-├── csv_data/
-│   ├── games_parsed.csv     # Raw game sequences and metadata
-│   ├── opening_stats.csv    # Frequency analysis of opening systems
-│   ├── player_stats.csv     # Statistics for professional players
-│   └── struct_data.csv      # Category-wise distribution
-└── figures/                 # Statistical visualizations
+
+Dataset/
+├── 對局 (Matches)/
+│   ├── 大師對局 (Master Matches)/
+│   │   ├── 以棋手分類 (By Player)/  # e.g., 許銀川 (Xu Yinchuan), 胡榮華 (Hu Ronghua), 呂欽 (Lu Qin), etc.
+│   │   ├── 以賽事分類 (By Tournament)/ # e.g., 象甲聯賽 (Xiangqi League), 五羊杯 (Five Rams Cup), etc.
+│   │   └── 以開局分類 (By Opening)/    # e.g., 中炮局 (Central Cannon), 屏風馬 (Screen Horse), etc.
+│   └── 電腦對局 (Computer Matches)/
+│       ├── 人機賽 (Man-Machine Matches)/
+│       └── 電腦對局競賽 (Computer vs. Computer)/
+├── 中局 (Midgame)/
+├── 殘局 (Endgame)/
+├── 殺局_殺法_練習題 (Checkmate Tactics & Puzzles)/
+├── 全盤戰術 (Full-Game Tactics)/
+└── 開局 (Opening Variations)/
