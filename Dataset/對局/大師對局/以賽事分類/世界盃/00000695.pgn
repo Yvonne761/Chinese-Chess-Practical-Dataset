@@ -1,0 +1,32 @@
+[Game "Chinese Chess"]
+[Event "2009;世界象棋錦標賽 MR7T35 芬蘭 ARTO Vaara(先負)德國 HOFFARTH Karsten 中炮局"]
+[Round ""]
+[Date "20090901"]
+[Site "山東新泰"]
+[Red "ARTO Vaara"]
+[RedTeam ""]
+[Black "HOFFARTH Karste"]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO "B01"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 炮二平五 馬２進３
+2. 馬二進三 象７進５
+3. 車一進一 卒７進１
+4. 兵七進一 炮８平６
+5. 車一平四 士６進５
+6. 炮八進二 炮２平１
+7. 馬八進七 車１平２
+8. 車九平八 車２進４
+9. 馬七進六 卒３進１
+10. 兵七進一 車２平３
+11. 車四進四 車３進４
+12. 炮五平六 馬８進７
+13. 車四退一 車９平８
+14. 炮六平七 馬３進４
+15. 炮八平七 車３退１
+16. 馬六退七 馬４進６
+17. 馬三退五 車８進７
+18. 兵五進一 車８平６
+0-1

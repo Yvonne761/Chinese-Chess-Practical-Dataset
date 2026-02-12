@@ -1,0 +1,20 @@
+[Game "Chinese Chess"]
+[Event "149"]
+[Round ""]
+[Date "1987"]
+[Site "崑山"]
+[Red "於幼華"]
+[RedTeam ""]
+[Black "李來群"]
+[BlackTeam ""]
+[Result "1-0"]
+[ECCO ""]
+[FEN "1n1k2b2/4a4/3abc3/p1pR5/3NNn3/2P6/P6pP/3Cr3B/4A4/3AK4 w - - 0 1"]
+
+1. 馬五進四  馬６退４
+2. 炮六進四 馬２進４
+3. 炮六平五  馬４進２
+4. 馬六進七 將４進１
+5. 炮五平六
+
+1-0

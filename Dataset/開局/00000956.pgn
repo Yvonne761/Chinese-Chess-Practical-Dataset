@@ -1,0 +1,23 @@
+[Game "Chinese Chess"]
+[Event "飛相局對仙人指路 其 他 紅單提馬(二)"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "*"]
+[ECCO "A39"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 相三進五  卒３進１
+2. 馬八進九 馬２進３
+3. 馬二進三 卒７進１
+4. 車九進一 馬８進７
+5. 仕四進五 卒１進１
+6. 車一平四 象７進５
+7. 兵七進一 卒１進１
+8. 兵九進一 卒３進１
+9. 車九平七 車１進５
+10. 炮二平一 卒３進１  *

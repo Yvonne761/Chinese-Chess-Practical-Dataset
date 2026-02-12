@@ -1,0 +1,18 @@
+[Game "Chinese Chess"]
+[Event "中炮對後補列炮(一）紅過河車對黑平炮兌車(7)"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "*"]
+[ECCO "D53"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 炮二平五  馬８進７
+2. 馬二進三 車９平８
+3. 車一平二 炮２平５
+4. 車二進六 炮８平９
+5. 車二平三 車８進２  *

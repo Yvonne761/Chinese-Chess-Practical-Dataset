@@ -1,0 +1,18 @@
+[Game "Chinese Chess"]
+[Event "飛相局對仙人指路 兵底炮對上右象 紅左車巡河(6)"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "*"]
+[ECCO "A39"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 相三進五  卒３進１
+2. 炮八平七 象３進５
+3. 馬八進九 馬２進３
+4. 車九平八 車１平２
+5. 車八進四 馬８進７  *

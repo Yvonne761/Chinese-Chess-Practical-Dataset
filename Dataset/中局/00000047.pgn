@@ -1,0 +1,20 @@
+[Game "Chinese Chess"]
+[Event "002  揚士逐車 絲線拴牛"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red "李義庭"]
+[RedTeam ""]
+[Black "楊官磷"]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO ""]
+[FEN "4kc3/4a4/b2a4b/2P2RP2/4r4/7N1/9/5A3/5K3/9 b - - 0 1"]
+
+1.          士５進６
+2. 車四進一 車５進４
+3. 帥四退一 車５退１
+4. 車四進二 將５平６
+5. 兵七平六 車５平６
+6. 帥四平五 車６平５
+0-1

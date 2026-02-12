@@ -1,0 +1,23 @@
+[Game "Chinese Chess"]
+[Event "509"]
+[Round ""]
+[Date "1931"]
+[Site "上海"]
+[Red "華東周德裕"]
+[RedTeam ""]
+[Black "華北趙文宣"]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO ""]
+[FEN "1rb1ka1r1/4a4/2n1b1n2/p1p5p/4p1c2/2P3R2/Pc2N3P/C3C1N2/9/1RBAKAB2 b - - 0 1"]
+
+1. 炮２退１
+2. 兵七進一 卒５進１
+3. 車三平五 炮７進５
+4. 仕四進五 炮７平９
+5. 仕五進六 車８進９
+6. 帥五進一 車８退１
+7. 帥五退一 炮２進３
+8. 車五平二 車８平７
+
+0-1

@@ -1,0 +1,19 @@
+[Game "Chinese Chess"]
+[Event "7、棄車搶殺  立竿見影"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO ""]
+[FEN "2bakaRC1/9/n8/p2c4p/6p2/6P2/P6rP/3rc1N2/5R3/3AK4 b - - 0 1"]
+
+1. 車４進２
+2. 帥五進一 車４退１
+3. 帥五平六 炮５平４
+4. 帥六進一 車８平４
+
+0-1

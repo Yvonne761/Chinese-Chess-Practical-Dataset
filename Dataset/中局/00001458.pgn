@@ -1,0 +1,22 @@
+[Game "Chinese Chess"]
+[Event "434"]
+[Round ""]
+[Date "1934"]
+[Site "香港"]
+[Red "薛炳光"]
+[RedTeam ""]
+[Black "周德裕"]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO ""]
+[FEN "2b1ka3/4a4/4b4/9/2p1p4/9/9/1rCRB4/4A4/3K1ABc1 b - - 0 1"]
+
+1. 炮８退２
+2. 仕五進四 卒３進１
+3. 仕四進五 卒３進１
+4. 炮七退二 卒３進１
+5. 車六退一 炮８進２
+6. 仕五退四 車２進２
+7. 車六平四 卒３平４
+
+0-1

@@ -1,0 +1,21 @@
+[Game "Chinese Chess"]
+[Event "全國農民賽 524"]
+[Round ""]
+[Date "1987"]
+[Site ""]
+[Red "沈光華"]
+[RedTeam ""]
+[Black "王海濱"]
+[BlackTeam ""]
+[Result "1-0"]
+[ECCO ""]
+[FEN "r2akab2/4n1c2/2c1b1nr1/p1p1p3p/3R5/9/PRN1P1P1P/2C1C1N2/9/2BAKAB2 w - - 0 1"]
+
+1. 兵三進一 炮７進４
+2. 馬三進四 炮７進１
+3. 車八進五 馬５退３
+4. 馬七進五 車８進３
+5. 炮七進五 車８平６
+6. 炮七平三
+
+1-0

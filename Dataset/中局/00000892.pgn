@@ -1,0 +1,23 @@
+[Game "Chinese Chess"]
+[Event "11、雙炮齊鳴  雙車攻殺"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "1-0"]
+[ECCO ""]
+[FEN "1rbakn3/4a4/4b2R1/p3p1p1p/3n1r3/P1R2NP2/1c2Pc2P/N2CBC3/9/2BAKA3 w - - 0 1"]
+
+1. 炮六進七  士５退４
+2. 馬四進六  炮６進３
+3. 馬六進七  車２進２
+4. 仕六進五 炮６平９
+5. 炮四進七  士４進５
+6. 馬七進五  將５進１
+7. 車七進四 將５退１
+8. 炮四退一
+
+1-0

@@ -1,0 +1,24 @@
+[Game "Chinese Chess"]
+[Event "1 紅平七路炮黑上右象"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "*"]
+[ECCO "C31"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 炮二平五 馬８進７
+2. 馬二進三 卒７進１
+3. 車一平二 車９平８
+4. 車二進六 馬２進３
+5. 兵七進一 士４進５
+6. 炮八平七 象３進５
+7. 車二平三  炮８進６
+8. 車三進一  炮８平７
+9. 炮七進一 炮２進４
+10. 馬三退五 車１平４
+11. 馬八進七 車４進７  *

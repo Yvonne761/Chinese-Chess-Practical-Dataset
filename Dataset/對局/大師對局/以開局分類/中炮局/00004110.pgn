@@ -1,0 +1,24 @@
+[Game "Chinese Chess"]
+[Event "破進七兵篇十四　屏風馬雙包過河應當頭炮未進車中兵過河局"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO "C04"]
+[FEN "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1"]
+
+1. 炮二平五 馬８進７
+2. 馬二進三 馬２進３
+3. 車一平二 車９平８
+4. 兵七進一 卒７進１
+5. 馬八進七 炮２進４
+6. 兵五進一  炮８進４
+7. 兵五進一  士４進５
+8. 兵五平六 象３進５
+9. 兵六進一  炮２平３
+
+0-1

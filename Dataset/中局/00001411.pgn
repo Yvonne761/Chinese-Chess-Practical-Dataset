@@ -1,0 +1,20 @@
+[Game "Chinese Chess"]
+[Event "3、馬獻九宮  棄攻擒帥"]
+[Round ""]
+[Date ""]
+[Site ""]
+[Red ""]
+[RedTeam ""]
+[Black ""]
+[BlackTeam ""]
+[Result "0-1"]
+[ECCO ""]
+[FEN "2b1k3C/n3a4/4c4/p7p/2p1p4/3NnR3/P6rP/B1N1KA3/9/5A3 b - - 0 1"]
+
+1. 馬５進４
+2. 馬六進五  卒５進１
+3. 車四進二 卒５進１
+4. 帥五平六 卒５進１
+5. 帥六退一 車８平４
+
+0-1
