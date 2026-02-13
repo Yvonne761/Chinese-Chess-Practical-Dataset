@@ -3,7 +3,7 @@ A large-scale, practical-oriented Chinese Chess (Xiangqi) dataset featuring 58k+
 
 # Chinese Chess Practical Dataset (CCPD)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 ## 📌 Overview
@@ -56,3 +56,12 @@ Dataset/
 ├── 殺局_殺法_練習題 (Checkmate Tactics & Puzzles)/
 ├── 全盤戰術 (Full-Game Tactics)/
 └── 開局 (Opening Variations)/
+```
+## 📜 License
+This dataset is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## 📝 Citation
+If you use this dataset in your research, please cite it as follows:
+
+Yu-Han Tseng. (2026). Chinese Chess Practical Dataset (CCPD). 
+Retrieved from https://github.com/Yvonne761/Chinese-Chess-Practical-Dataset
