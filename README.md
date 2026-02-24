@@ -63,5 +63,5 @@ This dataset is licensed under a [Creative Commons Attribution 4.0 International
 ## 📝 Citation
 If you use this dataset in your research, please cite it as follows:
 
-Yu-Han Tseng. (2026). Chinese Chess Practical Dataset (CCPD). 
+Yu-Han Tseng and Bo-Nian Chen (2026). Chinese Chess Practical Dataset (CCPD). 
 Retrieved from https://github.com/Yvonne761/Chinese-Chess-Practical-Dataset
